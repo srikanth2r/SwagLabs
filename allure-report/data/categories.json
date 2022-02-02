@@ -1,5 +1,30 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
-  "name" : "categories"
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect $(`//*[@class='shopping_cart_link']`) to have text containing\n                \n                Expected: \" \"\n                Received: \"\"",
+      "children" : [ {
+        "name" : "Error validations",
+        "uid" : "2200f474967d6b6c",
+        "parentUid" : "425dd0e522e6680c4ea9abccab6b142b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1643815452330,
+          "stop" : 1643815463085,
+          "duration" : 10755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-97.0.4692.99" ]
+      } ],
+      "uid" : "425dd0e522e6680c4ea9abccab6b142b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }

@@ -1,0 +1,84 @@
+{
+  "uid" : "adfc497cfef75f43",
+  "name" : "User login error validations",
+  "fullName" : "Login Validations.User login error validations",
+  "historyId" : "c65a29e15c6316fd46e747be7627af27",
+  "time" : {
+    "start" : 1643815451422,
+    "stop" : 1643815452330,
+    "duration" : 908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ba01885cc8cdfa2",
+      "name" : "Screenshot",
+      "source" : "6ba01885cc8cdfa2.png",
+      "type" : "image/png",
+      "size" : 114749
+    }, {
+      "uid" : "d650f4eff5816b4",
+      "name" : "Screenshot",
+      "source" : "d650f4eff5816b4.png",
+      "type" : "image/png",
+      "size" : 114749
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "User login error validations"
+  }, {
+    "name" : "package",
+    "value" : "Login Validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adfc497cfef75f43.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

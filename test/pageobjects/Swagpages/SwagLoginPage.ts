@@ -14,7 +14,11 @@ class SwagLoginPage extends basePage {
         return $('#login-button');
     }
 
-    public async login (username: string, password: string): Promise<void> {
+    public get invalidlogintext(): ChainablePromiseElement<Promise<WebdriverIO.Element>> {
+        return $("//*[text()='Epic sadface: Sorry, this user has been locked out.']");
+    }
+
+    public async login(username: string, password: string): Promise<void> {
         await this.inputUsername.setValue(username);
         await this.inputPassword.setValue(password);
         await this.loginbtn.click();

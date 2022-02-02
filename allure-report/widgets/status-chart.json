@@ -1,50 +1,80 @@
 [ {
-  "uid" : "304b6ccd19413bd5",
+  "uid" : "d2bc90760f2b5f44",
   "name" : "User Logins and Selects Products ",
   "time" : {
-    "start" : 1643781319514,
-    "stop" : 1643781327465,
-    "duration" : 7951
+    "start" : 1643815283685,
+    "stop" : 1643815290328,
+    "duration" : 6643
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9e6c90f92e91f009",
-  "name" : "Verify Page Title",
+  "uid" : "2200f474967d6b6c",
+  "name" : "Error validations",
   "time" : {
-    "start" : 1643781319135,
-    "stop" : 1643781319514,
-    "duration" : 379
+    "start" : 1643815452330,
+    "stop" : 1643815463085,
+    "duration" : 10755
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "69647f5da7c1cd2",
-  "name" : "Verify Page Title",
-  "time" : {
-    "start" : 1643781318394,
-    "stop" : 1643781319120,
-    "duration" : 726
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "41862a2fd62da157",
-  "name" : "Verify URL",
-  "time" : {
-    "start" : 1643781318556,
-    "stop" : 1643781319134,
-    "duration" : 578
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "63efd0a7ab89a2a5",
+  "uid" : "f5a4e6dae8ecf49f",
   "name" : "User Validates the products",
   "time" : {
-    "start" : 1643781319120,
-    "stop" : 1643781324146,
-    "duration" : 5026
+    "start" : 1643815367242,
+    "stop" : 1643815370826,
+    "duration" : 3584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b107a775031dfdb9",
+  "name" : "Verify URL",
+  "time" : {
+    "start" : 1643815450765,
+    "stop" : 1643815451422,
+    "duration" : 657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c1368e66760caf3",
+  "name" : "Verify Page Title",
+  "time" : {
+    "start" : 1643815283344,
+    "stop" : 1643815283685,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c55876060e563c25",
+  "name" : "Verify URL",
+  "time" : {
+    "start" : 1643815282633,
+    "stop" : 1643815283344,
+    "duration" : 711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6fd51e1aac739f5",
+  "name" : "Verify Page Title",
+  "time" : {
+    "start" : 1643815366710,
+    "stop" : 1643815367242,
+    "duration" : 532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "adfc497cfef75f43",
+  "name" : "User login error validations",
+  "time" : {
+    "start" : 1643815451422,
+    "stop" : 1643815452330,
+    "duration" : 908
   },
   "status" : "passed",
   "severity" : "normal"

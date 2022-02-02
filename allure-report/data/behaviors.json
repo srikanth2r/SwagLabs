@@ -1,48 +1,15 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
   "children" : [ {
-    "name" : "Verify Page Title",
-    "uid" : "69647f5da7c1cd2",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643781318394,
-      "stop" : 1643781319120,
-      "duration" : 726
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-97.0.4692.99" ]
-  }, {
     "name" : "Verify URL",
-    "uid" : "41862a2fd62da157",
+    "uid" : "c55876060e563c25",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1643781318556,
-      "stop" : 1643781319134,
-      "duration" : 578
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-97.0.4692.99" ]
-  }, {
-    "name" : "User Validates the products",
-    "uid" : "63efd0a7ab89a2a5",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643781319120,
-      "stop" : 1643781324146,
-      "duration" : 5026
+      "start" : 1643815282633,
+      "stop" : 1643815283344,
+      "duration" : 711
     },
     "flaky" : false,
     "newFailed" : false,
@@ -53,13 +20,13 @@
     "parameters" : [ "chrome-97.0.4692.99" ]
   }, {
     "name" : "Verify Page Title",
-    "uid" : "9e6c90f92e91f009",
+    "uid" : "1c1368e66760caf3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1643781319135,
-      "stop" : 1643781319514,
-      "duration" : 379
+      "start" : 1643815283344,
+      "stop" : 1643815283685,
+      "duration" : 341
     },
     "flaky" : false,
     "newFailed" : false,
@@ -70,13 +37,13 @@
     "parameters" : [ "chrome-97.0.4692.99" ]
   }, {
     "name" : "User Logins and Selects Products ",
-    "uid" : "304b6ccd19413bd5",
+    "uid" : "d2bc90760f2b5f44",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1643781319514,
-      "stop" : 1643781327465,
-      "duration" : 7951
+      "start" : 1643815283685,
+      "stop" : 1643815290328,
+      "duration" : 6643
     },
     "flaky" : false,
     "newFailed" : false,
@@ -85,6 +52,90 @@
     "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-97.0.4692.99" ]
-  } ],
-  "name" : "behaviors"
+  }, {
+    "name" : "Verify Page Title",
+    "uid" : "a6fd51e1aac739f5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643815366710,
+      "stop" : 1643815367242,
+      "duration" : 532
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "User Validates the products",
+    "uid" : "f5a4e6dae8ecf49f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643815367242,
+      "stop" : 1643815370826,
+      "duration" : 3584
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "Verify URL",
+    "uid" : "b107a775031dfdb9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643815450765,
+      "stop" : 1643815451422,
+      "duration" : 657
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "User login error validations",
+    "uid" : "adfc497cfef75f43",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643815451422,
+      "stop" : 1643815452330,
+      "duration" : 908
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  }, {
+    "name" : "Error validations",
+    "uid" : "2200f474967d6b6c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1643815452330,
+      "stop" : 1643815463085,
+      "duration" : 10755
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-97.0.4692.99" ]
+  } ]
 }

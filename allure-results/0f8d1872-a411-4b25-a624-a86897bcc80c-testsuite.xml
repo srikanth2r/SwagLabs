@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643815450765' stop='1643815463088'>
+    <name>Login Validations</name>
+    <title>Login Validations</title>
+    <test-cases>
+        <test-case start='1643815450765' status='passed' stop='1643815451422'>
+            <name>Verify URL</name>
+            <title>Verify URL</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c967afda-b8d0-414d-b54b-8bc6fc6ca3ab-attachment.png' type='image/png' size='98284'/>
+            </attachments>
+        </test-case>
+        <test-case start='1643815451422' status='passed' stop='1643815452330'>
+            <name>User login error validations</name>
+            <title>User login error validations</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7bf0c6cd-2a5d-48bf-ac6f-9e421da6ea5d-attachment.png' type='image/png' size='114749'/>
+                <attachment title='Screenshot' source='c0f97e27-2a52-4e5e-8acf-c15b6d11f493-attachment.png' type='image/png' size='114749'/>
+            </attachments>
+        </test-case>
+        <test-case start='1643815452330' status='failed' stop='1643815463085'>
+            <name>Error validations</name>
+            <title>Error validations</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='98bb0e62-40b5-476b-b4f2-86850177d79b-attachment.png' type='image/png' size='443858'/>
+            </attachments>
+            <failure>
+                <message>Expect $(`//*[@class='shopping_cart_link']`) to have text containing
+                
+                Expected: " "
+                Received: ""</message>
+                <stack-trace>Error: Expect $(`//*[@class='shopping_cart_link']`) to have text containing
+                
+                Expected: " "
+                Received: ""
+                    at C:\Users\Public\SWAGLABS AUTOMATION\test\specs\Tests\LoginValidations.ts:35:46
+                    at step (C:\Users\Public\SWAGLABS AUTOMATION\test\specs\Tests\LoginValidations.ts:33:23)
+                    at Object.next (C:\Users\Public\SWAGLABS AUTOMATION\test\specs\Tests\LoginValidations.ts:14:53)
+                    at fulfilled (C:\Users\Public\SWAGLABS AUTOMATION\test\specs\Tests\LoginValidations.ts:5:58)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

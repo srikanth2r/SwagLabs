@@ -1,12 +1,12 @@
 {
-  "uid" : "304b6ccd19413bd5",
+  "uid" : "d2bc90760f2b5f44",
   "name" : "User Logins and Selects Products ",
   "fullName" : "Login Page Suite.User Logins and Selects Products ",
   "historyId" : "420df20ca4e0262af53c8c7dfd48acf3",
   "time" : {
-    "start" : 1643781319514,
-    "stop" : 1643781327465,
-    "duration" : 7951
+    "start" : 1643815283685,
+    "stop" : 1643815290328,
+    "duration" : 6643
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,89 +22,89 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "deb35f9b6227c420",
+      "uid" : "d70619a29e8950cd",
       "name" : "Screenshot",
-      "source" : "deb35f9b6227c420.png",
+      "source" : "d70619a29e8950cd.png",
       "type" : "image/png",
       "size" : 659988
     }, {
-      "uid" : "c6e26ed21ed04e83",
+      "uid" : "99357c981f017fb0",
       "name" : "Screenshot",
-      "source" : "c6e26ed21ed04e83.png",
+      "source" : "99357c981f017fb0.png",
       "type" : "image/png",
       "size" : 659988
     }, {
-      "uid" : "241f13d09be977bf",
+      "uid" : "682a1f0a4404f00f",
       "name" : "Screenshot",
-      "source" : "241f13d09be977bf.png",
+      "source" : "682a1f0a4404f00f.png",
       "type" : "image/png",
       "size" : 659988
     }, {
-      "uid" : "5a4d3274ab286c37",
+      "uid" : "da7087b77fb13a3a",
       "name" : "Screenshot",
-      "source" : "5a4d3274ab286c37.png",
+      "source" : "da7087b77fb13a3a.png",
       "type" : "image/png",
       "size" : 641573
     }, {
-      "uid" : "4fc7344e1bdd2007",
+      "uid" : "566a1a2069513c93",
       "name" : "Screenshot",
-      "source" : "4fc7344e1bdd2007.png",
+      "source" : "566a1a2069513c93.png",
       "type" : "image/png",
       "size" : 697672
     }, {
-      "uid" : "d37f8a661da2c1cc",
+      "uid" : "705d5549d44d3260",
       "name" : "Screenshot",
-      "source" : "d37f8a661da2c1cc.png",
+      "source" : "705d5549d44d3260.png",
       "type" : "image/png",
       "size" : 697672
     }, {
-      "uid" : "49e2bd9761f8feed",
+      "uid" : "c80b3d2ec27e5bc6",
       "name" : "Screenshot",
-      "source" : "49e2bd9761f8feed.png",
+      "source" : "c80b3d2ec27e5bc6.png",
       "type" : "image/png",
       "size" : 697501
     }, {
-      "uid" : "9b9fd3b2533924df",
+      "uid" : "ee77db3daa219075",
       "name" : "Screenshot",
-      "source" : "9b9fd3b2533924df.png",
+      "source" : "ee77db3daa219075.png",
       "type" : "image/png",
       "size" : 697719
     }, {
-      "uid" : "cd7d1efdbdd81d47",
+      "uid" : "f9254c2c9f16466c",
       "name" : "Screenshot",
-      "source" : "cd7d1efdbdd81d47.png",
+      "source" : "f9254c2c9f16466c.png",
       "type" : "image/png",
       "size" : 698075
     }, {
-      "uid" : "81ca4fdc6acfd240",
+      "uid" : "fa2c02fcff7846be",
       "name" : "Screenshot",
-      "source" : "81ca4fdc6acfd240.png",
+      "source" : "fa2c02fcff7846be.png",
       "type" : "image/png",
       "size" : 697616
     }, {
-      "uid" : "6916ead3ce00d27b",
+      "uid" : "5d52eb398d166fbe",
       "name" : "Screenshot",
-      "source" : "6916ead3ce00d27b.png",
+      "source" : "5d52eb398d166fbe.png",
       "type" : "image/png",
       "size" : 697758
     }, {
-      "uid" : "b02ab7b5e3bd2f7b",
+      "uid" : "82f93dacaada64c3",
       "name" : "Screenshot",
-      "source" : "b02ab7b5e3bd2f7b.png",
+      "source" : "82f93dacaada64c3.png",
       "type" : "image/png",
       "size" : 256638
     }, {
-      "uid" : "acf5041290328166",
+      "uid" : "7bf98fcd4258115f",
       "name" : "Screenshot",
-      "source" : "acf5041290328166.png",
+      "source" : "7bf98fcd4258115f.png",
       "type" : "image/png",
       "size" : 696794
     } ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : true,
     "attachmentsCount" : 13,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -145,6 +145,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "304b6ccd19413bd5.json",
+  "source" : "d2bc90760f2b5f44.json",
   "parameterValues" : [ "chrome-97.0.4692.99" ]
 }

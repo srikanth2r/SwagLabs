@@ -16,7 +16,7 @@ export const config: WebdriverIO.Config = {
     // If you need to configure how ts-node runs please use the
     // environment variables for ts-node or use wdio config's autoCompileOpts section.
     //
-    
+
     autoCompileOpts: {
         autoCompile: true,
         // see https://github.com/TypeStrong/ts-node#cli-and-programmatic-options
@@ -48,7 +48,7 @@ export const config: WebdriverIO.Config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/*.ts'
+        './test/specs/**/LoginValidations.ts'
     ],
     // Patterns to exclude.
     exclude: [
@@ -77,7 +77,7 @@ export const config: WebdriverIO.Config = {
     // https://saucelabs.com/platform/platform-configurator
     //
     capabilities: [{
-    
+
         // maxInstances can get overwritten per capability. So if you have an in-house Selenium
         // grid with only 5 firefox instances available you can make sure that not more than
         // 5 instances get started at a time.
@@ -138,7 +138,7 @@ export const config: WebdriverIO.Config = {
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
     services: ['chromedriver'],
-    
+
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber
     // see also: https://webdriver.io/docs/frameworks
@@ -161,19 +161,19 @@ export const config: WebdriverIO.Config = {
     // see also: https://webdriver.io/docs/dot-reporter
     reporters: [
         'spec',
-    
+
         [
             'allure',
             {
-        outputDir: 'allure-results',
-        disableWebdriverStepsReporting: true,
-        disableWebdriverScreenshotsReporting: false,
+                outputDir: 'allure-results',
+                disableWebdriverStepsReporting: true,
+                disableWebdriverScreenshotsReporting: false,
             }
         ]
-            ],
+    ],
 
 
-    
+
     //
     // Options to be passed to Mocha.
     // See the full list at http://mochajs.org/
@@ -266,12 +266,12 @@ export const config: WebdriverIO.Config = {
      * @param {Boolean} result.passed    true if test has passed, otherwise false
      * @param {Object}  result.retries   informations to spec related retries, e.g. `{ attempts: 0, limit: 0 }`
      */
-    afterTest: function(test, context, { error, result, duration, passed, retries }) {
+    afterTest: function (test, context, { error, result, duration, passed, retries }) {
         if (result) {
             browser.takeScreenshot();
-          }
+        }
     },
-    
+
 
 
     /**

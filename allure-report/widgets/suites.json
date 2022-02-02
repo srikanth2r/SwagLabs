@@ -1,6 +1,17 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
+    "uid" : "d6089d71a83366fa4643a1469fda8b0a",
+    "name" : "Login Validations",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
     "uid" : "a055abf32712b65bd538782be7db938a",
     "name" : "Login Page Suite",
     "statistic" : {

@@ -1,0 +1,78 @@
+{
+  "uid" : "b107a775031dfdb9",
+  "name" : "Verify URL",
+  "fullName" : "Login Validations.Verify URL",
+  "historyId" : "542f9364dc3f0968fc0b2b073cb3d813",
+  "time" : {
+    "start" : 1643815450765,
+    "stop" : 1643815451422,
+    "duration" : 657
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a17869dee43b203f",
+      "name" : "Screenshot",
+      "source" : "a17869dee43b203f.png",
+      "type" : "image/png",
+      "size" : 98284
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify URL"
+  }, {
+    "name" : "package",
+    "value" : "Login Validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b107a775031dfdb9.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}
