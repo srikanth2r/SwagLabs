@@ -1,0 +1,120 @@
+{
+  "uid" : "63efd0a7ab89a2a5",
+  "name" : "User Validates the products",
+  "fullName" : "Home Page Suite.User Validates the products",
+  "historyId" : "8b6f562b85ae659db243547dc10f3f13",
+  "time" : {
+    "start" : 1643781319120,
+    "stop" : 1643781324146,
+    "duration" : 5026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "91768fda7ce2da20",
+      "name" : "Screenshot",
+      "source" : "91768fda7ce2da20.png",
+      "type" : "image/png",
+      "size" : 467417
+    }, {
+      "uid" : "6c554e7c89a9f536",
+      "name" : "Screenshot",
+      "source" : "6c554e7c89a9f536.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "fb3c62de9a81639a",
+      "name" : "Screenshot",
+      "source" : "fb3c62de9a81639a.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "f3c363a56ab18641",
+      "name" : "Screenshot",
+      "source" : "f3c363a56ab18641.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "e74d4163d6a04ed2",
+      "name" : "Screenshot",
+      "source" : "e74d4163d6a04ed2.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "86b4f2fd1ccb8445",
+      "name" : "Screenshot",
+      "source" : "86b4f2fd1ccb8445.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "b48f1fb3cd3f4c79",
+      "name" : "Screenshot",
+      "source" : "b48f1fb3cd3f4c79.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "569c9cceeec3284e",
+      "name" : "Screenshot",
+      "source" : "569c9cceeec3284e.png",
+      "type" : "image/png",
+      "size" : 659988
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Home Page Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "User Validates the products"
+  }, {
+    "name" : "package",
+    "value" : "Home Page Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63efd0a7ab89a2a5.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

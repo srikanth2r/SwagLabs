@@ -1,0 +1,62 @@
+{
+  "uid" : "41862a2fd62da157",
+  "name" : "Verify URL",
+  "fullName" : "Login Page Suite.Verify URL",
+  "historyId" : "ddd2356f9a76192d0d806aa725306c51",
+  "time" : {
+    "start" : 1643781318556,
+    "stop" : 1643781319134,
+    "duration" : 578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify URL"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41862a2fd62da157.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

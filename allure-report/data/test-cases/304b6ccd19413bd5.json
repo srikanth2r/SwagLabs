@@ -1,0 +1,150 @@
+{
+  "uid" : "304b6ccd19413bd5",
+  "name" : "User Logins and Selects Products ",
+  "fullName" : "Login Page Suite.User Logins and Selects Products ",
+  "historyId" : "420df20ca4e0262af53c8c7dfd48acf3",
+  "time" : {
+    "start" : 1643781319514,
+    "stop" : 1643781327465,
+    "duration" : 7951
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "deb35f9b6227c420",
+      "name" : "Screenshot",
+      "source" : "deb35f9b6227c420.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "c6e26ed21ed04e83",
+      "name" : "Screenshot",
+      "source" : "c6e26ed21ed04e83.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "241f13d09be977bf",
+      "name" : "Screenshot",
+      "source" : "241f13d09be977bf.png",
+      "type" : "image/png",
+      "size" : 659988
+    }, {
+      "uid" : "5a4d3274ab286c37",
+      "name" : "Screenshot",
+      "source" : "5a4d3274ab286c37.png",
+      "type" : "image/png",
+      "size" : 641573
+    }, {
+      "uid" : "4fc7344e1bdd2007",
+      "name" : "Screenshot",
+      "source" : "4fc7344e1bdd2007.png",
+      "type" : "image/png",
+      "size" : 697672
+    }, {
+      "uid" : "d37f8a661da2c1cc",
+      "name" : "Screenshot",
+      "source" : "d37f8a661da2c1cc.png",
+      "type" : "image/png",
+      "size" : 697672
+    }, {
+      "uid" : "49e2bd9761f8feed",
+      "name" : "Screenshot",
+      "source" : "49e2bd9761f8feed.png",
+      "type" : "image/png",
+      "size" : 697501
+    }, {
+      "uid" : "9b9fd3b2533924df",
+      "name" : "Screenshot",
+      "source" : "9b9fd3b2533924df.png",
+      "type" : "image/png",
+      "size" : 697719
+    }, {
+      "uid" : "cd7d1efdbdd81d47",
+      "name" : "Screenshot",
+      "source" : "cd7d1efdbdd81d47.png",
+      "type" : "image/png",
+      "size" : 698075
+    }, {
+      "uid" : "81ca4fdc6acfd240",
+      "name" : "Screenshot",
+      "source" : "81ca4fdc6acfd240.png",
+      "type" : "image/png",
+      "size" : 697616
+    }, {
+      "uid" : "6916ead3ce00d27b",
+      "name" : "Screenshot",
+      "source" : "6916ead3ce00d27b.png",
+      "type" : "image/png",
+      "size" : 697758
+    }, {
+      "uid" : "b02ab7b5e3bd2f7b",
+      "name" : "Screenshot",
+      "source" : "b02ab7b5e3bd2f7b.png",
+      "type" : "image/png",
+      "size" : 256638
+    }, {
+      "uid" : "acf5041290328166",
+      "name" : "Screenshot",
+      "source" : "acf5041290328166.png",
+      "type" : "image/png",
+      "size" : 696794
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 13,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "User Logins and Selects Products "
+  }, {
+    "name" : "package",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "304b6ccd19413bd5.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}
