@@ -1,0 +1,51 @@
+[ {
+  "uid" : "6f64d63a15b68346",
+  "name" : "Verify Page Title",
+  "time" : {
+    "start" : 1643743713861,
+    "stop" : 1643743714182,
+    "duration" : 321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c17c4d0448fafa7",
+  "name" : "Verify Page Title",
+  "time" : {
+    "start" : 1643743713001,
+    "stop" : 1643743713502,
+    "duration" : 501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5930ba6314ae2b9",
+  "name" : "User Validates the products",
+  "time" : {
+    "start" : 1643743713502,
+    "stop" : 1643743717664,
+    "duration" : 4162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9018b0f218ebd6d",
+  "name" : "Verify URL",
+  "time" : {
+    "start" : 1643743713207,
+    "stop" : 1643743713860,
+    "duration" : 653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7d167145c5735ed",
+  "name" : "User Logins and Selects Products ",
+  "time" : {
+    "start" : 1643743714182,
+    "stop" : 1643743720640,
+    "duration" : 6458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

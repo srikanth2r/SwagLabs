@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643742851200' stop='1643742858665'>
+    <name>Login Page Suite</name>
+    <title>Login Page Suite</title>
+    <test-cases>
+        <test-case start='1643742851200' status='passed' stop='1643742851656'>
+            <name>Verify URL</name>
+            <title>Verify URL</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643742851657' status='passed' stop='1643742851876'>
+            <name>Verify Page Title</name>
+            <title>Verify Page Title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643742851877' status='passed' stop='1643742858663'>
+            <name>User Logins and Selects Products </name>
+            <title>User Logins and Selects Products </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6af1b3bb-1675-477c-91ef-eb6f83adb7b7-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='00b2ab82-c9b7-445d-9d48-ab14335933e3-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='95cc9dfb-75d1-4bb8-b454-8e5ebad09200-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='8d8b2dbf-b0f3-488d-9223-b722d25300c1-attachment.png' type='image/png' size='641573'/>
+                <attachment title='Screenshot' source='22bc740e-4085-4e60-8dc4-29ccbf371ed5-attachment.png' type='image/png' size='697672'/>
+                <attachment title='Screenshot' source='376bf4c5-39af-4eed-a8b1-2d6a5d600255-attachment.png' type='image/png' size='697672'/>
+                <attachment title='Screenshot' source='f2ac4b38-77f6-47dd-82de-583211289081-attachment.png' type='image/png' size='697501'/>
+                <attachment title='Screenshot' source='81b6c7c1-b24b-4597-a89c-9bc58272187c-attachment.png' type='image/png' size='697719'/>
+                <attachment title='Screenshot' source='8db9b372-f11f-4c9d-b0f7-3c1e10ea522a-attachment.png' type='image/png' size='698075'/>
+                <attachment title='Screenshot' source='717e8117-0b4b-46b3-9ef8-2015c711c34b-attachment.png' type='image/png' size='697616'/>
+                <attachment title='Screenshot' source='1c0a93eb-b98a-4bb0-9677-739542e161be-attachment.png' type='image/png' size='697758'/>
+                <attachment title='Screenshot' source='e83f7d3c-4551-4749-ab81-a6ffb482389d-attachment.png' type='image/png' size='256638'/>
+                <attachment title='Screenshot' source='ab38790a-5745-4783-8b41-99de5850fb21-attachment.png' type='image/png' size='696794'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

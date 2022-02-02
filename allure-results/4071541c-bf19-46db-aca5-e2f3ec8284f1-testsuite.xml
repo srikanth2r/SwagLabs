@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643742775031' stop='1643742779791'>
+    <name>Home Page Suite</name>
+    <title>Home Page Suite</title>
+    <test-cases>
+        <test-case start='1643742775031' status='passed' stop='1643742775639'>
+            <name>Verify Page Title</name>
+            <title>Verify Page Title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643742775639' status='passed' stop='1643742779790'>
+            <name>User Validates the products</name>
+            <title>User Validates the products</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='70554420-445e-4e35-aebe-a06f363eacc7-attachment.png' type='image/png' size='593069'/>
+                <attachment title='Screenshot' source='3c7d5c2c-35b2-4b86-9f1c-a247248769dc-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='795670c7-7c41-41da-8264-410c45b80138-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='0fba5142-cbfb-424b-bb5b-627d4449f904-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='94e60b02-2bcd-4b5c-903b-1028d62a453f-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='4043f176-42be-46a2-a137-d4f2688379a6-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='cfad1bc4-18d6-486e-9663-3d4ef51d2219-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='43556638-7527-408e-8a36-c832d714a646-attachment.png' type='image/png' size='659988'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

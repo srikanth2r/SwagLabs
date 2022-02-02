@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 02 00:58:33 IST 2022","Wed Feb 02 00:58:34 IST 2022","321","","Login Page Suite","","Login Page Suite","Verify Page Title","Verify Page Title",""
+"passed","Wed Feb 02 00:58:33 IST 2022","Wed Feb 02 00:58:33 IST 2022","501","","Home Page Suite","","Home Page Suite","Verify Page Title","Verify Page Title",""
+"passed","Wed Feb 02 00:58:33 IST 2022","Wed Feb 02 00:58:37 IST 2022","4162","","Home Page Suite","","Home Page Suite","User Validates the products","User Validates the products",""
+"passed","Wed Feb 02 00:58:33 IST 2022","Wed Feb 02 00:58:33 IST 2022","653","","Login Page Suite","","Login Page Suite","Verify URL","Verify URL",""
+"passed","Wed Feb 02 00:58:34 IST 2022","Wed Feb 02 00:58:40 IST 2022","6458","","Login Page Suite","","Login Page Suite","User Logins and Selects Products ","User Logins and Selects Products ",""

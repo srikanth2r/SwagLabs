@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643735754632' stop='1643735756576'>
+    <name>Home Page Suite</name>
+    <title>Home Page Suite</title>
+    <test-cases>
+        <test-case start='1643735754633' status='passed' stop='1643735755070'>
+            <name>Verify Page Title</name>
+            <title>Verify Page Title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1643735755071' status='passed' stop='1643735756575'>
+            <name>User Validates the products</name>
+            <title>User Validates the products</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6a906c3d-1097-4511-acca-c5b7f5f0056b-attachment.png' type='image/png' size='659988'/>
+                <attachment title='Screenshot' source='e40b9dd2-072e-40e7-abb1-45ecfd231a5b-attachment.png' type='image/png' size='659988'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

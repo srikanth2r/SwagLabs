@@ -1,0 +1,60 @@
+{
+  "uid" : "fd7e991b73998429",
+  "name" : "Verify URL",
+  "fullName" : "Login Page Suite.Verify URL",
+  "historyId" : "ddd2356f9a76192d0d806aa725306c51",
+  "time" : {
+    "start" : 1643743543630,
+    "stop" : 1643743544094,
+    "duration" : 464
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify URL"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd7e991b73998429.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}
